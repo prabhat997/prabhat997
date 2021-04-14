@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Develepment
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend
-- 📫 How to reach me prabhat.khanduri67@gmail.com
+- 📫 How to reach me prabhat.khanduri67@gmail.com and on twitter @prabhatkhanduri
 
 <!---
 prabhat997/prabhat997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
