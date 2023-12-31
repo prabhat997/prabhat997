@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Frontend
 - 📫 Reach me prabhat.khanduri67@gmail.com and on twitter prabhatkhanduri
-- java
-- 
 
 <!---
 prabhat997/prabhat997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
